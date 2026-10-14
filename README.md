@@ -20,7 +20,7 @@ Natural persons and sole traders are left out. Street addresses, telephone and f
 | Texas New Businesses | [txnewbusinesses.com](https://txnewbusinesses.com) | [data/tx](data/tx) | [10.5281/zenodo.23365452](https://doi.org/10.5281/zenodo.23365452) |
 | Oregon New Businesses | [ornewbusinesses.com](https://ornewbusinesses.com) | [data/or](data/or) | [10.5281/zenodo.23365329](https://doi.org/10.5281/zenodo.23365329) |
 | Virginia New Businesses | [virginianewbusinesses.com](https://virginianewbusinesses.com) | [data/va](data/va) | [10.5281/zenodo.23365494](https://doi.org/10.5281/zenodo.23365494) |
-| New Contractor Licenses | [newcontractorlicenses.com](https://newcontractorlicenses.com) | [data/clr](data/clr) | [10.5281/zenodo.23365031](https://doi.org/10.5281/zenodo.23365031) |
+| New Contractor Licenses | [newcontractorlicenses.com](https://newcontractorlicenses.com) | [data/clr](data/clr) |  |
 | New DOT Numbers | [newdotnumbers.com](https://newdotnumbers.com) | [data/trucking](data/trucking) | [10.5281/zenodo.23365405](https://doi.org/10.5281/zenodo.23365405) |
 
 Last update: 2026-09.
