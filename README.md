@@ -16,11 +16,11 @@ Natural persons and sole traders are left out. Street addresses, telephone and f
 | New York New Businesses | [nynewbusinesses.com](https://nynewbusinesses.com) | [data/ny](data/ny) | [10.5281/zenodo.23364894](https://doi.org/10.5281/zenodo.23364894) |
 | Ohio New Businesses | [ohionewbusinesses.com](https://ohionewbusinesses.com) | [data/oh](data/oh) | [10.5281/zenodo.23365327](https://doi.org/10.5281/zenodo.23365327) |
 | Pennsylvania New Businesses | [panewbusinesses.com](https://panewbusinesses.com) | [data/pa](data/pa) | [10.5281/zenodo.23365338](https://doi.org/10.5281/zenodo.23365338) |
-| California New Businesses | [canewbusinesses.com](https://canewbusinesses.com) | [data/ca](data/ca) |  |
+| California New Businesses | [canewbusinesses.com](https://canewbusinesses.com) | [data/ca](data/ca) | [10.5281/zenodo.23364925](https://doi.org/10.5281/zenodo.23364925) |
 | Texas New Businesses | [txnewbusinesses.com](https://txnewbusinesses.com) | [data/tx](data/tx) | [10.5281/zenodo.23365452](https://doi.org/10.5281/zenodo.23365452) |
 | Oregon New Businesses | [ornewbusinesses.com](https://ornewbusinesses.com) | [data/or](data/or) | [10.5281/zenodo.23365329](https://doi.org/10.5281/zenodo.23365329) |
 | Virginia New Businesses | [virginianewbusinesses.com](https://virginianewbusinesses.com) | [data/va](data/va) | [10.5281/zenodo.23365494](https://doi.org/10.5281/zenodo.23365494) |
-| New Contractor Licenses | [newcontractorlicenses.com](https://newcontractorlicenses.com) | [data/clr](data/clr) |  |
+| New Contractor Licenses | [newcontractorlicenses.com](https://newcontractorlicenses.com) | [data/clr](data/clr) | [10.5281/zenodo.23365031](https://doi.org/10.5281/zenodo.23365031) |
 | New DOT Numbers | [newdotnumbers.com](https://newdotnumbers.com) | [data/trucking](data/trucking) | [10.5281/zenodo.23365405](https://doi.org/10.5281/zenodo.23365405) |
 
 Last update: 2026-09.
