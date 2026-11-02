@@ -23,4 +23,4 @@ Natural persons and sole traders are left out. Street addresses, telephone and f
 | New Contractor Licenses | [newcontractorlicenses.com](https://newcontractorlicenses.com) | [data/clr](data/clr) | [10.5281/zenodo.23365031](https://doi.org/10.5281/zenodo.23365031) |
 | New DOT Numbers | [newdotnumbers.com](https://newdotnumbers.com) | [data/trucking](data/trucking) | [10.5281/zenodo.23365405](https://doi.org/10.5281/zenodo.23365405) |
 
-Last update: 2026-09.
+Last update: 2026-10.
